@@ -1,0 +1,15 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "An Express.js app with Axios for making API calls",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Sanket Priyadarshi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.24.0"
+  }
+}
